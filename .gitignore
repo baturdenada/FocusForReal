@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+build/
+dist/
+installer-output/
+*.spec
+ffReal.exe
+ffReal-Setup.exe
+.venv/
+.idea/
+.vscode/
